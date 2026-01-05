@@ -1,8 +1,6 @@
 module.exports = {
-  SESSION_ID: "", // Put Session Id Here Inside "*"
-  OWNER_NUMBER: "923119416058", // Put Owner Number Here 
-  PREFIX: ".", // Default Prefix You Can Change To .,*!?+-&%#@
-  CDN: "https://mrfrankk-cdn.hf.space" // Dont change this part
+  SESSION_ID: "Ice~M1kPuB",
+  OWNER_NUMBER: "+923119416058", 
+  PREFIX: ".",
+  CDN: "https://mrfrankk-cdn.hf.space"
 };
-
-// CREATED BY DARRELL MUCHERI ( Devil 👿 )
